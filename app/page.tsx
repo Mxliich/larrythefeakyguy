@@ -7,6 +7,8 @@ import InstagramButton from "@/components/instagram-button"
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-4 relative overflow-hidden">
+       <h1 className="text-4xl font-bold">beep boop stole your toes</h1>
+      <p className="mt-4 text-lg">yo is this web running</p>
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-purple-900/20 to-black z-0"></div>
 
