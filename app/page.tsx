@@ -2,7 +2,6 @@ import Link from "next/link"
 import { LucideArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
-import InstagramButton from "@/components/instagram-button"
 
 export default function Home() {
   return (
