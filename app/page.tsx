@@ -39,7 +39,7 @@ export default function Home() {
           <div className="relative bg-black/80 p-6 rounded-lg border border-purple-500/30">
             <p className="text-xl md:text-2xl leading-relaxed mb-4">
               Meet Larry, He is so freaky that he might steal your balls. 
-              He is so goofy ahh cat with 200+ history crimes.
+              A cat with 200+ history crimes.
               You just missed a call from him, you should call him back.
             </p>
           </div>
@@ -68,10 +68,7 @@ export default function Home() {
         ))}
       </div>
 
-      {/* Instagram credit button */}
-      <div className="fixed bottom-8 right-8 z-10">
-        <InstagramButton />
-      </div>
+      
     </main>
   )
 }
